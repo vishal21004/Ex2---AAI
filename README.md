@@ -1,3 +1,5 @@
+# Exact inference using Variable Elimination Method
+
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
 
